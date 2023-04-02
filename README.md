@@ -1,5 +1,5 @@
 <h1 align="center">¡Buenas! soy Alejo Cabana</h1>
-<h3 align="center">Estudiante de Análisis en Sistemas/Licenciatura en Sistemas de Información de la FCyT - UADER. Full Stack Developer.</h3>
+<h3 align="center">Estudiante de la Facultad de Ciencia y Tecnología (FCyT) de la Universidad Autónoma de Entre Ríos (UADER), especializándome en el desarrollo Full Stack. Apasionado por el desarrollo back-end. Busco constantemente oportunidades con el objetivo de expandir mis capacidades y aplicar mis conocimientos en proyectos desafiantes.</h3>
 
 
 <h3 align="left">Habilidades en lenguajes y herramientas</h3>
