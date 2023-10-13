@@ -1,4 +1,3 @@
-<h1 align="center">¡Buenas! soy Alejo Cabana</h1>
 <h3 align="center">Estudiante de la Facultad de Ciencia y Tecnología (FCyT) de la Universidad Autónoma de Entre Ríos (UADER), especializándome en el desarrollo Full Stack. Apasionado por el desarrollo back-end. Busco constantemente oportunidades con el objetivo de expandir mis capacidades y aplicar mis conocimientos en proyectos desafiantes.</h3>
 
 
